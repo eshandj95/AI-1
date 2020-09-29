@@ -1,0 +1,7 @@
+All possible combinations such as vertial, horizontal, diagonal backslash, diagonal forwardslash are considered in the eval function.
+
+getUblockedThrees function: it checks if 3 pieces are in order such that the 4th piece can be placed so that all four pieces are aligned and player can earn a point.
+
+Max utility and Min utility gives us the Max and Min values.
+
+Based on these factors computer decides the best move.
